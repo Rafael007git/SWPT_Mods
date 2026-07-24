@@ -7,3 +7,6 @@
 [submodule "FurnitureAnimations"]
 	path = FurnitureAnimations
 	url = git@github.com:Rafael007git/FurnitureAnimations.git
+[submodule "DioramaMode"]
+	path = DioramaMode
+	url = git@github.com:Rafael007git/DioramaMode.git
