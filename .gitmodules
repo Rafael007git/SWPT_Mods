@@ -1,0 +1,3 @@
+[submodule "MegamorphLegFix"]
+	path = MegamorphLegFix
+	url = git@github.com:Rafael007git/MegamorphLegFix.git
