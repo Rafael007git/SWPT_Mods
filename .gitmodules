@@ -10,3 +10,6 @@
 [submodule "DioramaMode"]
 	path = DioramaMode
 	url = git@github.com:Rafael007git/DioramaMode.git
+[submodule "FurnitureMultiplyingFix"]
+	path = FurnitureMultiplyingFix
+	url = git@github.com:Rafael007git/FurnitureMultiplyingFix.git
