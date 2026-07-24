@@ -1,3 +1,6 @@
 [submodule "MegamorphLegFix"]
 	path = MegamorphLegFix
 	url = git@github.com:Rafael007git/MegamorphLegFix.git
+[submodule "LetItBeDarkMod"]
+	path = LetItBeDarkMod
+	url = git@github.com:Rafael007git/LetItBeDarkMod.git
