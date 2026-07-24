@@ -4,3 +4,6 @@
 [submodule "LetItBeDarkMod"]
 	path = LetItBeDarkMod
 	url = git@github.com:Rafael007git/LetItBeDarkMod.git
+[submodule "FurnitureAnimations"]
+	path = FurnitureAnimations
+	url = git@github.com:Rafael007git/FurnitureAnimations.git
