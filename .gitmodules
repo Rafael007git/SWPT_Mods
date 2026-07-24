@@ -13,3 +13,6 @@
 [submodule "FurnitureMultiplyingFix"]
 	path = FurnitureMultiplyingFix
 	url = git@github.com:Rafael007git/FurnitureMultiplyingFix.git
+[submodule "LingerieButtonsFilter"]
+	path = LingerieButtonsFilter
+	url = git@github.com:Rafael007git/LingerieButtonsFilter.git
