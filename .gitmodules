@@ -16,3 +16,6 @@
 [submodule "LingerieButtonsFilter"]
 	path = LingerieButtonsFilter
 	url = git@github.com:Rafael007git/LingerieButtonsFilter.git
+[submodule "BlinkSliders"]
+	path = BlinkSliders
+	url = C:/Users/User/source/repos/BlinkSliders
