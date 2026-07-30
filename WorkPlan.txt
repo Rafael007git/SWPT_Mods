@@ -1,0 +1,48 @@
+BUGFIXES
+ +/- Bug: При работе Pose Animations и загрузке Custom Free Pose не удаётся сдвигать персонажа (теперь отключается после загрузки ванильной позы)
+ - Bug: Unexpected offset when loading some poses
+
+CAMERA
+ - Change default camera position (Y = furniture pivot point + delta(furniture height)) or simply preserve the previous camera position
+ - Add camera (when in Free Camera mode) / Remove camera (when Camera selected) button
+
+IMPROVEMENTS
+ - Animation playback speed +/- button
+ - EaseInOut mod toggle (Linear / Global / Per frame) button
+ - Several music files can be linked to each animation
+ - Sound mute button
+ - Camera glyph over animated poses
+ - Save screenshot as icon when animation is linked
+
+========================================================================================================================
+
+BACKLOG
+ + Bug: our furniture config replaces in-game furniture config instead of adding to it
+ + Bug: poses during animations depend on the previously selected static pose
+ + Bug: Старые иконки не знают, что по клику по ним нужно останавливать анимацию (если она играла)
+ + Bug: Новые сохранённые FreePose загружаются как Т-позы (прислать JSON?). Сохранённые раньше загружаются нормально.
+ + Bug: При добавлении ванильной позы к мебели её иконка пропадает из панели поз (остаётся пустой квадрат)
+ + Bug: Кнопка для линка Анимации окрашивается целиком
+
+========================================================================================================================
+
+NEW MOD PLANS:
+ - "Pose Animations" mod upgrade
+ - "Art Club" mod upgrade with interactive furniture
+ - New poses and animations for "Dungeon Ex" mod
+ - Eye open/close control
+ - "Breast Physics" mod upgrade (simulating gravity)
+ - New sound for the "Incubus" mod with male character
+ - Better light, shadows and optic control for virtual photography
+ - First Person View mod
+ - Lingerie system rework
+ - VR mod
+ - Iredzumi, Japanese tattoo/bodyart
+ - More weapons: rapiers
+ - Outfits: nurse, office
+ - New content mods with dresses and jewelry
+ - Content mod with whips, ropes and leashes
+ - More items: lantern
+ - More furniture: similar to DungeonEx inspired by DeviantArt
+ - Import dance animations from liveDesktopBeauty
+ - Flight mode as a remedy to falling through textures
