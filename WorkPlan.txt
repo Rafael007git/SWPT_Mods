@@ -11,6 +11,7 @@ IMPROVEMENTS
  - EaseInOut mod toggle (Linear / Global / Per frame) button
  - Several music files can be linked to each animation
  - Sound mute button
+ 
  - Camera glyph over animated poses
  - Save screenshot as icon when animation is linked
 
