@@ -1,0 +1,14 @@
+1)
+git submodule foreach git pull origin main
+or
+git pullall
+
+2)
+git add .
+
+3)
+git push origin main
+
+
+Команда, которой создали allias:
+git config --global alias.pullall "submodule foreach git pull origin main"
