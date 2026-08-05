@@ -1,23 +1,25 @@
 BUGFIXES
  +/- Bug: При работе Pose Animations и загрузке Custom Free Pose не удаётся сдвигать персонажа (теперь отключается после загрузки ванильной позы)
  - Bug: Unexpected offset when loading some poses
+ - Рывки и елозенье в анимации DanceKneelingA
 
 CAMERA
  - Change default camera position (Y = furniture pivot point + delta(furniture height)) or simply preserve the previous camera position
  - Add camera (when in Free Camera mode) / Remove camera (when Camera selected) button
 
 IMPROVEMENTS
- - Animation playback speed +/- button
- - EaseInOut mod toggle (Linear / Global / Per frame) button
- - Several music files can be linked to each animation
- - Sound mute button
- 
  - Camera glyph over animated poses
  - Save screenshot as icon when animation is linked
 
 ========================================================================================================================
 
 BACKLOG
+ + Animation playback speed +/- button
+ + EaseInOut mod toggle (Linear / Global / Per frame) button
+ + Several music files can be linked to each animation
+ + Sound mute button
+ + Bug: Анимация DanceAround проигрывается не в ту сторону с шага 4
+ + Bug: Радар появляется после третьего нажатия на иконку анимации
  + Bug: our furniture config replaces in-game furniture config instead of adding to it
  + Bug: poses during animations depend on the previously selected static pose
  + Bug: Старые иконки не знают, что по клику по ним нужно останавливать анимацию (если она играла)
