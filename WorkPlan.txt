@@ -1,19 +1,20 @@
-BUGFIXES
- +/- Bug: При работе Pose Animations и загрузке Custom Free Pose не удаётся сдвигать персонажа (теперь отключается после загрузки ванильной позы)
- - Bug: Unexpected offset when loading some poses
- - Рывки и елозенье в анимации DanceKneelingA
+IMPROVEMENTS
+ - Remember selected speed and EasInOut for each animation/audio combination
 
 CAMERA
  - Change default camera position (Y = furniture pivot point + delta(furniture height)) or simply preserve the previous camera position
  - Add camera (when in Free Camera mode) / Remove camera (when Camera selected) button
 
-IMPROVEMENTS
- - Camera glyph over animated poses
- - Save screenshot as icon when animation is linked
+BUGFIXES
+ - Рывки и елозенье в анимации DanceKneelingA
+ - Bug: Unexpected offset when loading some poses
+ +/- Bug: При работе Pose Animations и загрузке Custom Free Pose не удаётся сдвигать персонажа (теперь отключается после загрузки ванильной позы)
 
 ========================================================================================================================
 
 BACKLOG
+ + Camera glyph over animated poses
+ + Save screenshot as icon when animation is linked
  + Animation playback speed +/- button
  + EaseInOut mod toggle (Linear / Global / Per frame) button
  + Several music files can be linked to each animation
