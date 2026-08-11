@@ -1,10 +1,6 @@
 IMPROVEMENTS
  - Remember selected speed and EasInOut for each animation/audio combination
 
-CAMERA
- - Change default camera position (Y = furniture pivot point + delta(furniture height)) or simply preserve the previous camera position
- - Add camera (when in Free Camera mode) / Remove camera (when Camera selected) button
-
 BUGFIXES
  - Рывки и елозенье в анимации DanceKneelingA
  - Bug: Unexpected offset when loading some poses
@@ -13,12 +9,15 @@ BUGFIXES
 ========================================================================================================================
 
 BACKLOG
+ + Add camera (when in Free Camera mode) / Remove camera (when Camera selected) button
+ + Change default camera position (Y = furniture pivot point + delta(furniture height)) or simply preserve the previous camera position
  + Camera glyph over animated poses
  + Save screenshot as icon when animation is linked
  + Animation playback speed +/- button
  + EaseInOut mod toggle (Linear / Global / Per frame) button
  + Several music files can be linked to each animation
  + Sound mute button
+ + Bug: Incorrect starting bone rotations when playing animations
  + Bug: Анимация DanceAround проигрывается не в ту сторону с шага 4
  + Bug: Радар появляется после третьего нажатия на иконку анимации
  + Bug: our furniture config replaces in-game furniture config instead of adding to it
@@ -50,3 +49,12 @@ NEW MOD PLANS:
  - More furniture: similar to DungeonEx inspired by DeviantArt
  - Import dance animations from liveDesktopBeauty
  - Flight mode as a remedy to falling through textures
+ 
+ 
+ Дальше мы делаем так:
+1. Называем все камеры, которые мы добавляем, "Custom camera n", где n - номер от 1 до 5. Для мебели из модов разрешаем 5 таких камер, для ванильной мебели - только 2. Камера всегда создаётся с наименьшим вакантным номером.
+2. При добавлении у мебели позы со скриншотом мы одновременно добавляем в JSON запись о Custom camera, если для неё есть вакантное место.
+3. Второй способ создания Custom camera - это кнопка addCamera в Furniture UI, доступная только при активной Free camera и если у мебели остались вакантные места.
+4. При включенной Custom camera в Furniture UI доступна кнопка deleteCamera, которая удаляет запись о данной камере из JSON и камеру как объект.
+5. Кнопки addCamera и deleteCamera находятся на одном и том же месте, но появляются при разных условиях, однако другие кнопки не сдвигаются на их место, если оно свободно.
+6. Они находятся на той же панели, что и наши кнопки управления анимацией, но, в отличии от них, могут появляться даже тогда, когда не выбрана анимация. Следовательно, нужно изменить условие появления панели, чтобы она была всегда в UI мебели. Кнопкам камер и анимации придётся индивидуально настроить появление/пропадание. Если, конечно, мы не хотим создать ещё одну кастомную панель специально для кнопки камеры?
