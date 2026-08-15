@@ -1,7 +1,6 @@
-IMPROVEMENTS
- - Remember selected speed and EasInOut for each animation/audio combination
-
 BUGFIXES
+ - Кнопки для Custom Camera не всегда появляются/исчезают.
+ - Не всегда правильно меняются иконки для кнопок сглаживания
  - Рывки и елозенье в анимации DanceKneelingA
  - Bug: Unexpected offset when loading some poses
  +/- Bug: При работе Pose Animations и загрузке Custom Free Pose не удаётся сдвигать персонажа (теперь отключается после загрузки ванильной позы)
@@ -9,6 +8,7 @@ BUGFIXES
 ========================================================================================================================
 
 BACKLOG
+ + Remember selected speed and EasInOut for each animation/audio combination
  + Add camera (when in Free Camera mode) / Remove camera (when Camera selected) button
  + Change default camera position (Y = furniture pivot point + delta(furniture height)) or simply preserve the previous camera position
  + Camera glyph over animated poses
