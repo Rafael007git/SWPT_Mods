@@ -1,9 +1,12 @@
 BUGFIXES
- - Кнопки для Custom Camera не всегда появляются/исчезают.
- - Не всегда правильно меняются иконки для кнопок сглаживания
- - Рывки и елозенье в анимации DanceKneelingA
+ - Bug: Кнопки для Custom Camera не всегда появляются/исчезают.
+ - Bug: Не всегда правильно меняются иконки для кнопок сглаживания
  - Bug: Unexpected offset when loading some poses
+ - Bug: Рывки и елозенье в анимации DanceKneelingA
  +/- Bug: При работе Pose Animations и загрузке Custom Free Pose не удаётся сдвигать персонажа (теперь отключается после загрузки ванильной позы)
+
+Improvements
+ - Перед удалением Custom Camera выводить предупреждение (в первый раз)
 
 ========================================================================================================================
 
@@ -30,12 +33,12 @@ BACKLOG
 ========================================================================================================================
 
 NEW MOD PLANS:
- - "Pose Animations" mod upgrade
  - "Art Club" mod upgrade with interactive furniture
+ - New sound for the "Incubus" mod with male character
+ - "Pose Animations" mod upgrade
  - New poses and animations for "Dungeon Ex" mod
  - Eye open/close control
  - "Breast Physics" mod upgrade (simulating gravity)
- - New sound for the "Incubus" mod with male character
  - Better light, shadows and optic control for virtual photography
  - First Person View mod
  - Lingerie system rework
@@ -49,9 +52,11 @@ NEW MOD PLANS:
  - More furniture: similar to DungeonEx inspired by DeviantArt
  - Import dance animations from liveDesktopBeauty
  - Flight mode as a remedy to falling through textures
- 
- 
- Дальше мы делаем так:
+
+========================================================================================================================
+FEATURE PLANNING 
+
+Custom cameras (done)
 1. Называем все камеры, которые мы добавляем, "Custom camera n", где n - номер от 1 до 5. Для мебели из модов разрешаем 5 таких камер, для ванильной мебели - только 2. Камера всегда создаётся с наименьшим вакантным номером.
 2. При добавлении у мебели позы со скриншотом мы одновременно добавляем в JSON запись о Custom camera, если для неё есть вакантное место.
 3. Второй способ создания Custom camera - это кнопка addCamera в Furniture UI, доступная только при активной Free camera и если у мебели остались вакантные места.
