@@ -10,6 +10,7 @@ Improvements
 ========================================================================================================================
 
 BACKLOG
+ + Audio source 2D -> 3D (and enable sound effects from environment)
  + Bug: Unexpected offset when loading some poses
  + Bug: перевести на английский сообщение при успешном линковании позы / анимации в Free Pose Mode
  + Remember selected speed and EasInOut for each animation/audio combination
