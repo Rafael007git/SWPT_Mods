@@ -1,0 +1,78 @@
+=============================================
+ART CLUB 2 mod description
+=============================================
+
+This is a more advanced and expanded version of my ART CLUB mod. What's inside:
+
+1. Rotating disco ball with coloured lights. Three versions included: static, rotating, rotating+fog.
+2. Easel with painting. Canvas displays custom image from a .png file located in the mod folder. You can replace that file with your custom image to see your picture on the canvas in game (see the detailed instructions in Readme.txt). Two variations are present: with vertical and horizontal canvas.
+3. Painting brush (as dagger) and palette (as shield). You can equip those to pose near the paintings. (Unfortunately the palette can be added only by editing a save file, which is a known problem with all shields in game)
+4. Microphone on a stand. Two variations: silver and golden.
+5. Piano and harp. Improved versions from my old ART CLUB mod with better details and more accurate colliders.
+6. Pole dancing stage. Also improved from my old ART CLUB (better design and more accurate colliders allowing you actually walk up and down the steps). Two variations: wooden with gold, dark marble with silver.
+
+I am also working on poses and animations for all these furniture items. However due to the limitations of the game engine they can work only with BepInEx version of this mod. I am going to publish it at Nexusmods later and inform you in the comment section here!
+
+--------------------------------------------------------------------
+Suggested by Google 
+--------------------------------------------------------------------
+
+[h2]Welcome to ART CLUB 2 — The ultimate expansion for creative minds![/h2]
+
+This is a more advanced and heavily expanded version of my original ART CLUB mod. Bring more interactive art, music, and entertainment to your sanctuary.
+
+[b]What's inside:[/b]
+
+[list]
+[*] [b]Rotating Disco Ball:[/b] Comes with beautiful colored lights. Three versions included: Static, Rotating, and Rotating + Fog effect.
+[*] [b]Customizable Easel:[/b] Features a canvas that displays a custom image from a .png file. You can easily replace this file with your own picture to see it in-game! (Detailed instructions can be found in the Readme.txt inside the mod's folder). Available in both Vertical and Horizontal canvas variations.
+[*] [b]Artist's Tools (Brush & Palette):[/b] Equip the Painting Brush as a dagger and the Palette as a shield to strike perfect artistic poses. 
+[i](Note: Due to base game engine limitations regarding custom shields, the palette can currently only be added by editing your save file).*[/i]
+[*] [b]Stage Microphone:[/b] Perfect for performances. Comes on a sleek stand with two color variants: Silver and Gold.
+[*] [b]Grand Piano & Harp:[/b] Remastered instruments from the first mod, now featuring higher details and much more accurate colliders.
+[*] [b]Pole Dancing Stage:[/b] An upgraded version with an improved design and precise colliders, allowing your characters to actually walk up and down the steps. Two style variations: Wooden with Gold accents, and Dark Marble with Silver accents.
+[/list]
+
+[b]📌 Important Notice regarding Poses & Animations:[/b]
+I am currently working on custom poses and animations for all these furniture items! However, due to game engine limitations, these advanced features require a BepInEx setup. I will be releasing the [b]Extended Extended Version[/b] on Nexusmods very soon. Stay tuned — I will drop the link in the comment section below as soon as it's live!
+
+--------------------------------------------------------------------
+Final edit
+--------------------------------------------------------------------
+
+This is a more advanced and heavily expanded version of my original ART CLUB mod. Bring more interactive art, music, and entertainment to your palace!
+
+[b]What's inside:[/b]
+
+[list]
+[*] [b]Rotating Disco Ball:[/b] Comes with vivid colored lights and fog. Three versions included: Static, Rotating, and Rotating + Fog effect.
+[*] [b]Customizable Easel:[/b] Features a canvas that displays a custom image from a .png file. You can easily replace this file with your own picture to see it in-game! (Detailed instructions can be found in the Readme.txt inside the mod's folder). Available in both Vertical and Horizontal canvas variations.
+[*] [b]Artist's Tools (Brush & Palette):[/b] Equip the Painting Brush as a dagger and the Palette as a shield to strike perfect artistic poses. 
+[i](Note: Due to base game engine limitations regarding custom shields, the palette can currently only be added by editing your save file).*[/i]
+[*] [b]Stage Microphone:[/b] Perfect for performances. Comes on a stand with two color variants: Silver and Gold.
+[*] [b]Grand Piano & Harp:[/b] Remastered instruments from the first mod, now featuring higher texture details and more accurate colliders.
+[*] [b]Pole Dancing Stage:[/b] An upgraded version with an improved design and precise colliders, allowing you to actually walk up and down the steps. Two style variations: Wooden with Gold accents, and Dark Marble with Silver accents.
+[/list]
+
+[b]Location:[/b] You can find all the furniture from this mod in the [b]Living Room[/b] category folder. (In case you see two [b]Living Room[/b] sections I am using the first one with the furniture from the devs)
+
+[b]📌 Important Notice regarding Poses & Animations:[/b]
+I am currently working on custom poses and animations for all these furniture items! However, due to game engine limitations, these advanced features require a BepInEx setup. I will be releasing the [b]Extended Extended Version[/b] on Nexusmods. Stay tuned — I will drop the link in the comment section below as soon as it's live!
+
+
+=============================================
+ART CLUB mod description
+=============================================
+
+This furniture pack contains a couple of musical instruments and two stages for pole dancing (nightclub style). Later I am going to add more objects dedicated to music and dancing (and probably other forms of art too).
+
+The furniture from this mod is located in Living Room folder.
+
+--------------------------------------------------------------------
+
+This furniture pack contains a collection of musical instruments and two nightclub-style stages for pole dancing to spice up your sanctuary. 
+
+[b]Location:[/b] You can find all the furniture from this mod in the [b]Living Room[/b] category folder.
+
+[h2]🔥 ART CLUB 2 IS OUT NOW![/h2]
+If you enjoy this pack, make sure to check out the brand new, heavily upgraded and expanded version: [b][url=ССЫЛКА_НА_ВТОРОЙ_МОД]ART CLUB 2[/url][/b] featuring custom art canvases, disco lights, remastered models, and more!
