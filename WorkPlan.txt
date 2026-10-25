@@ -1,8 +1,11 @@
 BUGFIXES
+ - Bug: animation doesn't stop on exiting furniture
  - Bug: Кнопки для Custom Camera не всегда появляются/исчезают
  - Bug: Не всегда правильно меняются иконки для кнопок сглаживания
  - Bug: Рывки и елозенье в анимации DanceKneelingA
  +/- Bug: При работе Pose Animations и загрузке Custom Free Pose не удаётся сдвигать персонажа (теперь отключается после загрузки ванильной позы)
+
+ - Furniture duplication fix: remove Russian from log and change Error to Regular message.
 
 Improvements
  - Перед удалением Custom Camera выводить предупреждение (в первый раз)
