@@ -1,5 +1,6 @@
 BUGFIXES
  - Bug: animation doesn't stop on exiting furniture
+ - Bug: Audio player always loop plays the same track and doesn't switch to the next one by itself
  - Bug: Кнопки для Custom Camera не всегда появляются/исчезают
  - Bug: Не всегда правильно меняются иконки для кнопок сглаживания
  - Bug: Рывки и елозенье в анимации DanceKneelingA
