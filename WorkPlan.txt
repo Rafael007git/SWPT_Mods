@@ -1,6 +1,5 @@
 BUGFIXES
- - Bug: animation doesn't stop on exiting furniture
- - Bug: Audio player always loop plays the same track and doesn't switch to the next one by itself
+ - Bug: poses from JSON not loaded at interaction
  - Bug: Кнопки для Custom Camera не всегда появляются/исчезают
  - Bug: Не всегда правильно меняются иконки для кнопок сглаживания
  - Bug: Рывки и елозенье в анимации DanceKneelingA
@@ -26,6 +25,8 @@ BACKLOG
  + EaseInOut mod toggle (Linear / Global / Per frame) button
  + Several music files can be linked to each animation
  + Sound mute button
+ + Bug: animation doesn't stop on exiting furniture
+ + Bug: Audio player always loop plays the same track and doesn't switch to the next one by itself
  + Bug: Incorrect starting bone rotations when playing animations
  + Bug: Анимация DanceAround проигрывается не в ту сторону с шага 4
  + Bug: Радар появляется после третьего нажатия на иконку анимации
