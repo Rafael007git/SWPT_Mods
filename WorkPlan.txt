@@ -1,5 +1,4 @@
 BUGFIXES
- - Bug: Не всегда правильно меняются иконки для кнопок сглаживания
  - Bug: Кнопки для Custom Camera не всегда появляются/исчезают
  - Bug: Рывки и елозенье в анимации DanceKneelingA
  +/- Bug: При работе Pose Animations и загрузке Custom Free Pose не удаётся сдвигать персонажа (теперь отключается после загрузки ванильной позы)
@@ -24,6 +23,7 @@ BACKLOG
  + EaseInOut mod toggle (Linear / Global / Per frame) button
  + Several music files can be linked to each animation
  + Sound mute button
+ + Bug: inconsistency of Ease icon in game UI and telemetry radar
  + Bug: poses from JSON not loaded at interaction
  + Bug: animation doesn't stop on exiting furniture
  + Bug: Audio player always loop plays the same track and doesn't switch to the next one by itself
