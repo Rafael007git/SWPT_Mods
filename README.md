@@ -2,9 +2,9 @@
 
 ## POSES AND ANIMATIONS
  - (Released) RefAnimationGrid: display PNG and MP4 references ingame for posing
- - (In progress)"Art Club 2" mod upgrade with interactions from Furniture Animations mod
+ - (Pre-release)"Art Club 2" mod upgrade with interactions from Furniture Animations mod
+ - (Pre-release) Animation Studio mod: scaling bones, face expressions, timeline editing, better transitions, etc.
  - Adapt existing poses for "Dungeon Ex" furniture with Furniture Animations mod. Make simple animations.
- - Pose Animations 2: scaling bones, face expressions, timeline editing, better transitions, etc.
  - Import K-pop dance animations from videogame Live Desktop Beauty
  - Teach AI to create poses from photos
  - AI video to animation conversion (nightclub poledance animations)
@@ -35,15 +35,20 @@
  - (In progress) Harem RPG: detailed character list with appearances, perks and sexual likes/dislikes
  - (Pre-release) Blushing face when embarassed or bottom after spanking by enabling decals from Tattoo mod
  - (Pre-release) Living hub system: companions move around the castle and interact with furniture
- - Sex and BDSM integration into harem RPG
- - Energy spent in battles and restored in castle between battles
+ - Sex and BDSM integration into harem RPG (Arousal, Embarrassment, Pleasure, Sexual Energy, Pain, Trust and other parameters)
+ - Companions Battle Energy spent in battles and restored in castle between battles
  - Dialogs and cutscenes
  - Gifts mechanics: animations and buffs
  - Flight mode as a remedy to falling through textures
+ - Guardposts in the castle to show off your minions
+ - Enemy raids?
  - Capturing minions on a battlefield
+ - When you have companions with high leadership in your combat party you can send it to simple missions without going yourself
+ - Arena: a place for duels with your companions. Gives EXP to combatants and spectators and leadership bonus to the winners
+ - Unique resque scenes, dialogs and mechanics (like you have to carry your new companion if she is exhausted)
 
 ## VR
- - First Person View mod
+ - (Simple) First Person View mod
  - VR mod
 
 ## VIRTUAL PHOTOGRAPHY
